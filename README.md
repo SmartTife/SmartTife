@@ -24,7 +24,7 @@ I'm actively seeking opportunities to **contribute to impactful projects** and g
 
 ## 🏆 Achievements & Certifications
 
-- **[ALX Professional Foundation Course Certificate](link_to_your_certificate)** – Completed the foundational course, equipping me with a solid understanding of web development and problem-solving.
+- **[ALX Professional Foundation Course Certificate](https://drive.google.com/file/d/1zX3ShugJ0eR5jYINKKmGqLbQxK7guX6j/view?usp=sharing)** – Completed the foundational course, equipping me with a solid understanding of web development and problem-solving.
 
 ---
 
