@@ -4,8 +4,9 @@
 <h3 align="center">A Frontend Developer passionate about building inclusive digital experiences</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="250" alt="Female Coder Gif">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Woman Coding Gif">
 </p>
+
 
 ---
 
