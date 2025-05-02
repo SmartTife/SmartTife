@@ -1,17 +1,17 @@
-<!-- GitHub Profile README Template -->
+<!-- GitHub Profile README -->
 
 <h1 align="center">Hi there 👋, I'm Iradat Ayoade</h1>
 <h3 align="center">A Frontend Developer passionate about building inclusive digital experiences</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Gif">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="250" alt="Female Coder Gif">
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm currently a <strong>Frontend Web Development Learner at ALX</strong> where I'm honing my skills in building accessible and responsive user interfaces. My journey in software engineering is rooted in a deep desire to:
+I'm currently a <strong>Frontend Web Development Learner at ALX</strong>, where I'm honing my skills in building accessible and responsive user interfaces. My journey in software engineering is rooted in a deep desire to:
 
 - ✨ Write **clean, accessible code**
 - 🤝 Collaborate in **learning-focused** and **inclusive** environments
@@ -23,8 +23,7 @@ I'm actively seeking opportunities to **contribute to impactful projects** and g
 
 ## 🏆 Achievements & Certifications
 
-- **[ALX Professional Foundation Course](#)** – Completed the foundational course, equipping me with a solid understanding of web development and problem-solving.
-- **[Google Web Fundamentals](#)** – Certified in modern web development practices.
+- **[ALX Professional Foundation Course Certificate](link_to_your_certificate)** – Completed the foundational course, equipping me with a solid understanding of web development and problem-solving.
 
 ---
 
@@ -97,3 +96,4 @@ I'm excited to share my learning journey and projects as I progress through my s
 ⭐️ **“I believe in building technology that brings people together and drives growth for all.”**
 
 ---
+
