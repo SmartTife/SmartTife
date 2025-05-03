@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <h1 align="center">Hi there 👋, I'm Iradat Ayoade</h1>
-<h3 align="center">A Frontend Developer passionate about building inclusive digital experiences</h3>
+<h3 align="center">A Junior Frontend Developer passionate about building inclusive digital experiences</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Woman Coding Gif">
