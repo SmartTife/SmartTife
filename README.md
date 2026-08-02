@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <h1 align="center">Hi there 👋, I'm Iradat Ayoade</h1>
-<h3 align="center">A Junior Frontend Developer passionate about building inclusive digital experiences</h3>
+<h3 align="center">Economics Student | Data Analytics Learner | Passionate about solving real-world problems with data</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Woman Coding Gif">
@@ -12,14 +12,7 @@
 
 ## 🚀 About Me
 
-I'm currently a <strong>Frontend Web Development Learner at ALX</strong>, where I'm honing my skills in building accessible and responsive user interfaces. My journey in software engineering is rooted in a deep desire to:
-
-- ✨ Write **clean, accessible code**
-- 🤝 Collaborate in **learning-focused** and **inclusive** environments
-- 🌍 Build digital experiences that **benefit everyone**
-
-I'm actively seeking opportunities to **contribute to impactful projects** and grow alongside experienced developers in a dynamic and supportive team.
-
+I'm an Economics student and aspiring Data Analyst with a growing interest in transforming raw data into meaningful insights. I'm currently building practical skills in Google Sheets, SQL, Python and Power BI through hands-on projects involving data cleaning, visualisation and analysis.
 ---
 
 ## 🏆 Achievements & Certifications
